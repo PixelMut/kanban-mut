@@ -3,12 +3,13 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
 # This project uses Bulma package for scss : 
-  ==> npm install bulma --save
-  ==> integration of custom scss from https://bulma.io/documentation/customize/with-sass-cli/ part 6 into main-style
-  ==> changing the colors and font size ( purple, 18px)
-  ==> usage of SASS to NEST
+  - npm install bulma --save
+  
 
-
+# This project uses Angular CDK
+  - npm install @angular/cdk --save
+  
+  
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
